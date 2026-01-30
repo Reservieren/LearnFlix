@@ -1,7 +1,7 @@
 {
   "name": "react",
   "version": "1.0.0",
-  "homepage": "https://github.com/Reservieren/LearnFlix",
+  "homepage": "https://reservieren.github.io/LearnFlix",
   "description": "",
   "keywords": [],
   "main": "src/index.tsx",
